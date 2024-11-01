@@ -1,0 +1,2 @@
+id,waste_id,is_valuable,amount,unit,price_cost,created_at,updated_at
+1,12,1,1,Kg,1700,2024-10-19 0:00:00,2024-10-19 0:00:00
